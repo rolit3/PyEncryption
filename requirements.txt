@@ -1,0 +1,8 @@
+# For hashing passwords
+bcrypt==4.0.1
+
+# For cryptographic functions
+cryptography==40.0.1
+
+# For parsing command-line arguments
+argparse==1.4.0
