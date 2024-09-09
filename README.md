@@ -23,7 +23,7 @@ The repository is organized into multiple folders, each containing different typ
    To get started, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/PyEncryption.git
+   git clone https://github.com/rolit3/PyEncryption.git
    ```
 2. **Navigate to the Repository**
 
@@ -35,9 +35,8 @@ The repository is organized into multiple folders, each containing different typ
    Install the required Python packages:
 
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
-
 ## Usage
 
 The repository is organized into different folders for easy access to various tools. Simply go to the relevant folder and check out the README files within for specific usage instructions.
